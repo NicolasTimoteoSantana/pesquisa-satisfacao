@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  color: #d4d4d4;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-image: url(MEU\ AMO.jpg);
+}
+
+header {
+  background-color: #2e003f;
+  color: white;
+  padding: 20px;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin: 20px 0;
+}
+
+.fotos img {
+  width: 200px;
+  height: auto;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+button {
+  background-color: #2e003f;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #2e003f;
+}
+
+footer {
+  background-color:#2e003f;
+  color: white;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
